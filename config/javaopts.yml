@@ -15,4 +15,3 @@
 
 # Configuration for the +JAVA_OPTS+ framework
 ---
-JAVA_OPTS = -Xmx512m -XX:MaxPermSize=128M -XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled
